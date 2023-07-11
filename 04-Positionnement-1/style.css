@@ -1,0 +1,21 @@
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px; /* équivalent 50%*/
+    object-fit: cover;
+}
+
+div, p{
+    background-color: burlywood;
+    padding: 30px;
+    margin: 20px;
+    display: inline-block;
+}
+p{
+    width: 800px;
+}
+span{
+    font-weight: bold;
+    color: chartreuse;
+    padding: 10px 0 ;
+}

@@ -1,0 +1,21 @@
+.title{
+    font-size: 64px;
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: wavy underline chartreuse;
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 10px;
+}
+
+.title2{
+    font-size: 32px;
+}
+
+#liste1{
+    list-style-type: lower-greek;
+}
+
+#liste2{
+    list-style-type:square;
+}

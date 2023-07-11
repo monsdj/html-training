@@ -1,0 +1,17 @@
+div{
+    width: 250px; /* pt , em, rem, %, vw  = veiwport width , px*/
+    height: 350px; /* pt , em, rem, %, vh  = veiwport height , px*/
+
+    background-color: chartreuse;
+
+    margin: 100px;  /*marge extérieur*/
+    padding: 40px; /* marge intérieur*/
+
+    margin-left: 200px; /*les autres possibilité sont  margin-left ...right ...bottom ...top*/
+
+    padding: 20px 10px ; /*top / bottom et left / right*/
+
+    margin: 10px 40px 150px 0; /*top right bottom left*/
+
+    margin: 0 auto;
+}
